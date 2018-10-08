@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fireTopLayout"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:keepScreenOn="true">
+
+  <com.vivintsolar.face2face.common.CameraSourcePreview
+      android:id="@+id/firePreview"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <com.vivintsolar.face2face.common.GraphicOverlay
+        android:id="@+id/fireFaceOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+  </com.vivintsolar.face2face.common.CameraSourcePreview>
+
+    <FrameLayout
+        android:id="@+id/control"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="0dp">
+
+        <ToggleButton
+            android:id="@+id/facingSwitch"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="bottom|end"
+            android:background="@layout/toggle_style"
+            android:checked="false"
+            android:textOff=""
+            android:textOn="" />
+
+    </FrameLayout>
+
+</RelativeLayout>

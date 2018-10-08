@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "885793930248",
+    "firebase_url": "https://facetoface-vslr.firebaseio.com",
+    "project_id": "facetoface-vslr",
+    "storage_bucket": "facetoface-vslr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885793930248:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885793930248-g71q32tog3vg970ojr977p9vg8sa9iqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyEPwQjxa_PSYghWAyFUwoS7VRXnNzkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885793930248:android:ccc66655bd73782e",
+        "android_client_info": {
+          "package_name": "com.vivint.face2face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885793930248-g71q32tog3vg970ojr977p9vg8sa9iqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyEPwQjxa_PSYghWAyFUwoS7VRXnNzkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885793930248:android:0014dc12fb3433ed",
+        "android_client_info": {
+          "package_name": "com.vivintsolar.facetoface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885793930248-7b5qc718sp9n22p3err6ja260qrti3hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vivintsolar.facetoface",
+            "certificate_hash": "1938bb5bd63f2099887c5e29a01b5975b7251bf4"
+          }
+        },
+        {
+          "client_id": "885793930248-g71q32tog3vg970ojr977p9vg8sa9iqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyEPwQjxa_PSYghWAyFUwoS7VRXnNzkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885793930248-g71q32tog3vg970ojr977p9vg8sa9iqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
